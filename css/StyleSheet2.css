@@ -1,0 +1,13 @@
+﻿.main-products{
+    background-color:aqua
+
+}
+.product{
+    background-color:red;
+    width:20%;
+    height:20%;
+    float:left
+}
+.clearfix{
+    clear:left
+}
